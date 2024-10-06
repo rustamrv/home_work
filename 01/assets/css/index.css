@@ -1,0 +1,20 @@
+h1 {
+  text-align: center;
+}
+
+.my-profile {
+  text-align: center;
+}
+
+.contact a {
+  color: #2980b9;
+  text-decoration: none;
+}
+
+.contact a:visited {
+  color: #8e44ad;
+}
+
+.contact a:hover {
+  color: #1abc9c;
+}
